@@ -42,3 +42,9 @@ We're going to split up into teams. Each team will be assigned a web mapping lib
   - That means, if it lacks a feature you need, is it possible to add your own to it? (plugins)
   - If so, how easy/difficult does it seem to be?
 
+## Overall impressions from each group
+- What do you think?
+- When does it seem like this library would be a good choice?
+
+## Let's talk about projects
+
